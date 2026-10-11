@@ -1,12 +1,9 @@
 # 放下手机 / Phone Down
 
-Public help and privacy pages for the iPhone app.
-
-- Website: https://qge0001.github.io/phone-down-site/
-- Privacy: https://qge0001.github.io/phone-down-site/privacy.html
-- Help: https://qge0001.github.io/phone-down-site/help.html
-- Public feedback: https://github.com/qge0001/phone-down-site/issues
-
-Chinese and English content is included. The site has no added analytics, website ads or feedback-submission forms. GitHub Pages logs visitor IP addresses for security. App source, challenge records, screenshots and install packages are not included in this repository.
-
-The website includes the app icon and styles in index.html. It also works as a local, standalone HTML file. Enable GitHub Pages from the main branch root.
+- [Website](https://qge0001.github.io/phone-down-site/)
+- [隐私政策](https://qge0001.github.io/phone-down-site/privacy.html)
+- [使用帮助](https://qge0001.github.io/phone-down-site/help.html)
+- [联系我们](https://qge0001.github.io/phone-down-site/contact.html)
+- [Privacy Policy](https://qge0001.github.io/phone-down-site/privacy-en.html)
+- [Help](https://qge0001.github.io/phone-down-site/help-en.html)
+- [Contact](https://qge0001.github.io/phone-down-site/contact-en.html)

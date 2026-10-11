@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Phone Down · Phone Down</title><meta name="description" content="Put your phone aside.">
+<link rel="icon" href="assets/icon.png"><link rel="stylesheet" href="assets/site.css"></head>
+<body><div class="wrap"><header><a class="brand" href="index-en.html"><img src="assets/icon.png" alt="">Phone Down</a>
+<nav aria-label="Navigation"><a href="privacy-en.html">Privacy</a><a href="help-en.html">Help</a><a href="contact-en.html">Contact</a><a href="index.html" hreflang="zh-Hans">简体中文</a></nav></header>
+<main><h1>Put your phone aside.</h1><p class="intro">Help, privacy and feedback.</p><div class="choices"><a class="choice" href="privacy-en.html">Privacy</a><a class="choice" href="help-en.html">Help</a><a class="choice" href="contact-en.html">Contact</a></div></main><footer><span>Phone Down</span><div class="links"><a href="privacy-en.html">Privacy</a><a href="help-en.html">Help</a><a href="contact-en.html">Contact</a></div></footer></div><script>
+const pages = {privacy:'privacy.html',help:'help.html',contact:'contact.html',
+'privacy-en':'privacy-en.html','help-en':'help-en.html','contact-en':'contact-en.html'};
+const target = pages[location.hash.slice(1)];
+if (target) location.replace(target);
+</script></body></html>
